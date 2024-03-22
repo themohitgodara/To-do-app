@@ -1,2 +1,2 @@
 # To-do-app
-this is my first JavaScript project
+This is my first JavaScript project
